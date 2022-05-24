@@ -14,8 +14,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          data-testid="learn-link"
         >
-          Learn React
+          Learn Automation Testing and Dev
         </a>
       </header>
     </div>
